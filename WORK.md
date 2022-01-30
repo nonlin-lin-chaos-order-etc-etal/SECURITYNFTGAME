@@ -94,3 +94,7 @@ LDREBORN&ACDC
  
 <pferds> итого: тема хаскеля отныне закрыта.
 ```
+
+
+
+но инфа сотка что блокчейновый биткодный mut опасен! виталик это evm world computer! ivm invisible world computer! buidl
